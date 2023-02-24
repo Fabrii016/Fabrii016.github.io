@@ -1,0 +1,1185 @@
+#Caja0 
+	{
+    	width: 55vw;
+    	height: 100vh;
+    	background: #D5D8DC;
+    	margin: auto;
+	}
+
+ul li 
+	{
+		list-style: none;
+		padding: 2px;
+	}
+
+.Caja1
+	{
+		width: 60%;
+		height: 90%;
+		margin-right: 2.5%;
+		margin-top: 1.5%;
+		float: right;
+	}
+
+.Caja1 h2 
+	{
+		font-size: 23px;
+		padding-bottom: 15px;
+		font-family: 'Bitter', serif;
+	}
+
+h3
+	{
+		font-size: 20px;
+		padding-bottom: 5px;
+	}
+
+h4
+	{
+		font-size: 20px;
+		padding-bottom: 10px;
+	}
+
+.Caja1 ul
+	{
+		padding-bottom: 9px;
+	}
+
+.Division1
+	{
+		margin-top: 20px;
+		border:.5px solid #288;
+	}
+
+.Caja2
+	{
+		width: 35%;
+		height: 20vh;
+		background: #555;
+	}
+
+.Caja3
+	{
+		width: 35%;
+		height: 80%;
+		background: #277;
+	}
+
+.Caja4
+	{
+		width: 80%;
+		margin: auto;
+		color: #fff;
+		font-family: 'Playfair Display', serif;
+	}
+
+.Caja4 h2
+	{
+		font-size: 20px;
+		padding-bottom: 10px;
+	}
+
+.Caja4 p 
+	{
+		font-size: 16px;
+		padding: 5px;
+	}
+
+.Division2
+	{
+		margin-top: 20px;
+		border:.5px solid #fff;
+	}
+
+.lafoto
+	{
+		width: 12vw;
+		margin-top: -9em;
+		border: solid 3px black;
+		position: relative;
+		z-index: 100;
+		cursor: pointer;
+	}
+
+.Nombre
+	{
+		margin: 0;
+		font-size: 55px;
+		color: #288;
+	}
+
+i
+	{
+		padding: 5px;
+	}
+
+.F-Grande
+	{
+    	width: 100%;
+    	height: 100vh;
+    	background-color: rgba(0, 0,0, 0.9);
+    	position: fixed;
+    	top: 0;
+    	left: 0;
+    	display: none;
+    	align-items: center;
+    	justify-content: center;
+    	z-index: 1000;
+    }
+
+.F-Grande span
+	{
+    	position: absolute;
+    	top: 5%;
+    	right: 5%;
+    	font-size: 30px;
+    	color: #fff;
+    	cursor: pointer;
+	}
+
+body
+	{
+		background: linear-gradient(to top, transparent, #000);
+	}
+
+
+@media only screen and (max-width: 1290px)
+{
+	#Caja0 
+		{
+    		width: 55vw;
+    		height: 100%;
+    		background: #D5D8DC;
+    		margin: auto;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 3%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 20px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 18px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 18px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 17px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 17px;
+		}
+		
+	.lafoto
+		{
+			width: 15vw;
+			margin-top: -9em;
+			border: solid 3px black;
+			position: relative;
+			z-index: 100;
+		}
+
+
+	.Caja4
+		{
+			width: 90%;
+			height: 105vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 13px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 13px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 17px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 3px;
+		}
+}
+
+
+@media only screen and (max-width: 1030px)
+{
+	#Caja0 
+		{
+    		width: 55vw;
+    		height: 100%;
+    		background: #D5D8DC;
+    		margin: auto;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 3%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 19px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 17px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 17px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 16px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 16px;
+		}
+		
+	.lafoto
+		{
+			width: 15vw;
+			margin-top: -6em;
+			border: solid 3px black;
+			position: relative;
+			z-index: 100;
+		}
+
+
+	.Caja4
+		{
+			width: 90%;
+			height: 170vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 12px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 12px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 3px;
+		}
+}
+
+
+@media only screen and (max-width: 915px)
+{
+	#Caja0 
+		{
+    		width: 55vw;
+    		height: 100%;
+    		background: #D5D8DC;
+    		margin: auto;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 3%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 19px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 17px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 17px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 16px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 16px;
+		}
+
+	.Caja2
+		{
+			width: 35%;
+			height: 10vh;
+			background: #555;
+		}
+	
+	.lafoto
+		{
+			width: 15vw;
+			margin-top: -6em;
+			border: solid 3px black;
+			position: relative;
+			z-index: 100;
+		}
+
+
+	.Caja4
+		{
+			width: 90%;
+			height: 90vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 12px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 12px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 3px;
+		}
+}
+
+
+@media only screen and (max-width: 850px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 28%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 22px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 16px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 16px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 16px;
+		}
+
+	.Nombre
+		{
+			font-size: 50px;
+			color: #299;
+			position: absolute;
+			margin-left: 35px;
+			margin-top: -140px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 25vw;
+			margin-top: -224px;
+			margin-left: -110px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 80vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 15px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 15px;
+    		padding-left: 3px;
+    		padding-bottom: 4px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 20px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 780px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 25%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 22px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 16px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 16px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 16px;
+		}
+
+	.Nombre
+		{
+			font-size: 50px;
+			color: #299;
+			position: absolute;
+			margin-left: 35px;
+			margin-top: -125px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 20vw;
+			margin-top: -180px;
+			margin-left: -80px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 95vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 15px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 15px;
+    		padding-left: 3px;
+    		padding-bottom: 4px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 20px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 550px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 24%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 22px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 16px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 16px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 16px;
+		}
+
+	.Nombre
+		{
+			font-size: 45px;
+			color: #299;
+			position: absolute;
+			margin-left: -7px;
+			margin-top: -110px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 25vw;
+			margin-top: -130px;
+			margin-left: -70px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 135vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 15px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 15px;
+    		padding-left: 3px;
+    		padding-bottom: 4px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 20px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 420px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 40%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 17px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 14px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 14px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 13px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 13px;
+		}
+
+	.Nombre
+		{
+			font-size: 45px;
+			color: #299;
+			position: absolute;
+			margin-left:-22px;
+			margin-top: -150px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 30vw;
+			margin-top: -150px;
+			margin-left: -56px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 105vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 10px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 10px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 13px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 380px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 32%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 16px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 14px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 14px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 13px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 13px;
+		}
+
+	.Nombre
+		{
+			font-size: 35px;
+			color: #299;
+			position: absolute;
+			margin-left:-22px;
+			margin-top: -95px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 30vw;
+			margin-top: -124px;
+			margin-left: -56px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 140vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 10px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 10px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 12px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 365px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 37%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 17px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 14px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 14px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 13px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 13px;
+		}
+
+	.Nombre
+		{
+			font-size: 40px;
+			color: #299;
+			position: absolute;
+			margin-left:-22px;
+			margin-top: -110px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 30vw;
+			margin-top: -128px;
+			margin-left: -56px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 120vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 10px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 10px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 13px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
+
+
+@media only screen and (max-width: 285px)
+{
+	#Caja0 
+		{
+    		width: 100%;
+    		height: 100%;
+    		background: #D5D8DC;
+		}
+
+	.Caja1
+		{
+			width: 60%;
+			height: 90%;
+			margin-right: 2.5%;
+			margin-top: 41%;
+			float: right;
+		}
+
+	.Caja1 h2 
+		{
+			font-size: 14px;
+			padding-bottom: 10px;
+			font-family: 'Bitter', serif;
+		}
+
+	h3
+		{
+			font-size: 12px;
+			padding-bottom: 5px;
+		}
+
+	h4
+		{
+			font-size: 12px;
+			padding-bottom: 10px;
+		}
+
+	.Caja1 ul
+		{
+			font-size: 11px;
+			padding-bottom: 9px;
+		}
+
+	.Caja1 p
+		{
+			font-size: 11px;
+		}
+
+	.Nombre
+		{
+			font-size: 30px;
+			color: #299;
+			position: absolute;
+			margin-left:-18px;
+			margin-top: -85px;
+		}
+
+	.Caja2
+		{
+			width: 100%;
+			height: 20vh;
+			background: #555;
+		}
+
+	.lafoto
+		{
+			width: 25vw;
+			margin-top: -100px;
+			margin-left: -35px;
+			border: solid 1px black;
+			position: absolute;
+			z-index: 100;
+		}
+
+	.Caja4
+		{
+			width: 90%;
+			height: 160vh;
+			margin: auto;
+			color: #fff;
+			font-family: 'Playfair Display', serif;
+		}
+
+	.Caja4 ul li
+		{
+			font-size: 9px;
+		}
+
+	.Caja4 p
+		{
+    		font-size: 9px;
+    		padding-left: 2px;
+    		padding-bottom: 3px;
+    	}
+
+	.Caja4 h2
+		{
+			font-size: 11px;
+			padding-bottom: 10px;
+		}
+
+	i
+		{
+			padding: 2px;
+		}
+}
